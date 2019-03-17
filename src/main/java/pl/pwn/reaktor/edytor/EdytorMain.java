@@ -6,10 +6,6 @@ import javafx.stage.Stage;
 public class EdytorMain extends Application {
 
 
-
-
-
-
     public void start(Stage primaryStage) throws Exception {
 
     }
